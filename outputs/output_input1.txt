@@ -1,0 +1,55 @@
+*---------------Error Log----------------------------------*
+input customer number and lines of customer doesn't match
+Customer number Fixed, Customer number:12
+*---------------Error Log----------------------------------*
+customer arrives: customer ID:  1 
+The queue ID  1, and length of the queue  1. 
+A clerk starts serving a customer: waited time:0.00 start time 0.20, the customer ID  1, the clerk ID 3. 
+customer arrives: customer ID:  2 
+The queue ID  1, and length of the queue  1. 
+A clerk starts serving a customer: waited time:0.00 start time 0.40, the customer ID  2, the clerk ID 5. 
+customer arrives: customer ID:  3 
+The queue ID  1, and length of the queue  1. 
+A clerk starts serving a customer: waited time:0.00 start time 0.50, the customer ID  3, the clerk ID 4. 
+customer arrives: customer ID:  5 
+The queue ID  2, and length of the queue  1. 
+customer arrives: customer ID:  4 
+The queue ID  2, and length of the queue  2. 
+A clerk starts serving a customer: waited time:0.00 start time 0.70, the customer ID  5, the clerk ID 1. 
+A clerk starts serving a customer: waited time:0.01 start time 0.71, the customer ID  4, the clerk ID 2. 
+customer arrives: customer ID:  6 
+The queue ID  2, and length of the queue  1. 
+customer arrives: customer ID:  7 
+The queue ID  1, and length of the queue  1. 
+customer arrives: customer ID:  8 
+The queue ID  1, and length of the queue  2. 
+customer arrives: customer ID: 10 
+The queue ID  2, and length of the queue  2. 
+customer arrives: customer ID:  9 
+The queue ID  2, and length of the queue  3. 
+customer arrives: customer ID: 11 
+The queue ID  2, and length of the queue  4. 
+customer arrives: customer ID: 12 
+The queue ID  2, and length of the queue  5. 
+-->>>A clerk finishes serving a customer: end time 3.71, the customer ID  4, the clerk ID 2. 
+A clerk starts serving a customer: waited time:2.91 start time 3.71, the customer ID  6, the clerk ID 2. 
+-->>>A clerk finishes serving a customer: end time 4.70, the customer ID  5, the clerk ID 1. 
+A clerk starts serving a customer: waited time:3.40 start time 4.70, the customer ID 10, the clerk ID 1. 
+-->>>A clerk finishes serving a customer: end time 5.50, the customer ID  3, the clerk ID 4. 
+A clerk starts serving a customer: waited time:4.21 start time 5.51, the customer ID  9, the clerk ID 4. 
+-->>>A clerk finishes serving a customer: end time 6.20, the customer ID  1, the clerk ID 3. 
+A clerk starts serving a customer: waited time:4.70 start time 6.20, the customer ID 11, the clerk ID 3. 
+-->>>A clerk finishes serving a customer: end time 7.40, the customer ID  2, the clerk ID 5. 
+A clerk starts serving a customer: waited time:5.71 start time 7.41, the customer ID 12, the clerk ID 5. 
+-->>>A clerk finishes serving a customer: end time 7.70, the customer ID 10, the clerk ID 1. 
+A clerk starts serving a customer: waited time:6.70 start time 7.70, the customer ID  7, the clerk ID 1. 
+-->>>A clerk finishes serving a customer: end time 8.51, the customer ID  9, the clerk ID 4. 
+A clerk starts serving a customer: waited time:7.41 start time 8.51, the customer ID  8, the clerk ID 4. 
+-->>>A clerk finishes serving a customer: end time 8.71, the customer ID  6, the clerk ID 2. 
+-->>>A clerk finishes serving a customer: end time 9.20, the customer ID 11, the clerk ID 3. 
+-->>>A clerk finishes serving a customer: end time 10.41, the customer ID 12, the clerk ID 5. 
+-->>>A clerk finishes serving a customer: end time 10.70, the customer ID  7, the clerk ID 1. 
+-->>>A clerk finishes serving a customer: end time 13.51, the customer ID  8, the clerk ID 4. 
+The average waiting time for all customers in queues is: 2.92 sec
+Business class customers Avg waited time in queue 2.99 sec
+Economy class customers Avg waited time in queue 2.82 sec

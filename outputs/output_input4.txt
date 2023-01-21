@@ -1,0 +1,123 @@
+customer arrives: customer ID:  1 
+The queue ID  1, and length of the queue  1. 
+A clerk starts serving a customer: waited time:0.00 start time 0.09, the customer ID  1, the clerk ID 1. 
+customer arrives: customer ID:  2 
+The queue ID  1, and length of the queue  1. 
+A clerk starts serving a customer: waited time:0.00 start time 0.19, the customer ID  2, the clerk ID 4. 
+-->>>A clerk finishes serving a customer: end time 1.19, the customer ID  2, the clerk ID 4. 
+customer arrives: customer ID:  6 
+The queue ID  1, and length of the queue  1. 
+customer arrives: customer ID:  7 
+The queue ID  1, and length of the queue  1. 
+A clerk starts serving a customer: waited time:0.00 start time 1.29, the customer ID  6, the clerk ID 2. 
+A clerk starts serving a customer: waited time:0.00 start time 1.29, the customer ID  7, the clerk ID 3. 
+customer arrives: customer ID:  5 
+The queue ID  1, and length of the queue  1. 
+A clerk starts serving a customer: waited time:0.00 start time 1.29, the customer ID  5, the clerk ID 4. 
+customer arrives: customer ID:  3 
+The queue ID  1, and length of the queue  1. 
+A clerk starts serving a customer: waited time:0.00 start time 1.29, the customer ID  3, the clerk ID 5. 
+customer arrives: customer ID:  4 
+The queue ID  1, and length of the queue  1. 
+customer arrives: customer ID:  8 
+The queue ID  1, and length of the queue  2. 
+customer arrives: customer ID:  9 
+The queue ID  1, and length of the queue  3. 
+customer arrives: customer ID: 10 
+The queue ID  1, and length of the queue  4. 
+-->>>A clerk finishes serving a customer: end time 4.29, the customer ID  3, the clerk ID 5. 
+A clerk starts serving a customer: waited time:3.00 start time 4.29, the customer ID  4, the clerk ID 5. 
+-->>>A clerk finishes serving a customer: end time 5.09, the customer ID  1, the clerk ID 1. 
+A clerk starts serving a customer: waited time:3.70 start time 5.09, the customer ID  8, the clerk ID 1. 
+customer arrives: customer ID: 11 
+The queue ID  1, and length of the queue  3. 
+customer arrives: customer ID: 12 
+The queue ID  2, and length of the queue  1. 
+customer arrives: customer ID: 13 
+The queue ID  1, and length of the queue  4. 
+-->>>A clerk finishes serving a customer: end time 6.29, the customer ID  7, the clerk ID 3. 
+A clerk starts serving a customer: waited time:0.20 start time 6.29, the customer ID 12, the clerk ID 3. 
+-->>>A clerk finishes serving a customer: end time 7.09, the customer ID  8, the clerk ID 1. 
+A clerk starts serving a customer: waited time:5.60 start time 7.09, the customer ID  9, the clerk ID 1. 
+customer arrives: customer ID: 14 
+The queue ID  1, and length of the queue  4. 
+-->>>A clerk finishes serving a customer: end time 8.29, the customer ID  6, the clerk ID 2. 
+A clerk starts serving a customer: waited time:5.70 start time 8.29, the customer ID 10, the clerk ID 2. 
+customer arrives: customer ID: 15 
+The queue ID  1, and length of the queue  4. 
+-->>>A clerk finishes serving a customer: end time 9.09, the customer ID  9, the clerk ID 1. 
+A clerk starts serving a customer: waited time:3.10 start time 9.09, the customer ID 11, the clerk ID 1. 
+customer arrives: customer ID: 16 
+The queue ID  1, and length of the queue  4. 
+-->>>A clerk finishes serving a customer: end time 10.29, the customer ID 12, the clerk ID 3. 
+A clerk starts serving a customer: waited time:4.00 start time 10.29, the customer ID 13, the clerk ID 3. 
+customer arrives: customer ID: 17 
+The queue ID  1, and length of the queue  4. 
+customer arrives: customer ID: 18 
+The queue ID  2, and length of the queue  1. 
+customer arrives: customer ID: 19 
+The queue ID  1, and length of the queue  5. 
+customer arrives: customer ID: 20 
+The queue ID  1, and length of the queue  6. 
+customer arrives: customer ID: 21 
+The queue ID  2, and length of the queue  2. 
+-->>>A clerk finishes serving a customer: end time 12.09, the customer ID 11, the clerk ID 1. 
+A clerk starts serving a customer: waited time:1.60 start time 12.09, the customer ID 18, the clerk ID 1. 
+customer arrives: customer ID: 22 
+The queue ID  1, and length of the queue  7. 
+customer arrives: customer ID: 23 
+The queue ID  1, and length of the queue  8. 
+customer arrives: customer ID: 24 
+The queue ID  2, and length of the queue  2. 
+customer arrives: customer ID: 25 
+The queue ID  1, and length of the queue  9. 
+customer arrives: customer ID: 26 
+The queue ID  2, and length of the queue  3. 
+customer arrives: customer ID: 27 
+The queue ID  1, and length of the queue 10. 
+customer arrives: customer ID: 28 
+The queue ID  2, and length of the queue  4. 
+customer arrives: customer ID: 29 
+The queue ID  2, and length of the queue  5. 
+customer arrives: customer ID: 30 
+The queue ID  1, and length of the queue 11. 
+-->>>A clerk finishes serving a customer: end time 15.29, the customer ID  5, the clerk ID 4. 
+A clerk starts serving a customer: waited time:3.50 start time 15.29, the customer ID 21, the clerk ID 4. 
+-->>>A clerk finishes serving a customer: end time 20.09, the customer ID 18, the clerk ID 1. 
+A clerk starts serving a customer: waited time:7.60 start time 20.09, the customer ID 24, the clerk ID 1. 
+-->>>A clerk finishes serving a customer: end time 22.29, the customer ID 10, the clerk ID 2. 
+A clerk starts serving a customer: waited time:8.90 start time 22.30, the customer ID 26, the clerk ID 2. 
+-->>>A clerk finishes serving a customer: end time 23.29, the customer ID 21, the clerk ID 4. 
+A clerk starts serving a customer: waited time:9.50 start time 23.29, the customer ID 28, the clerk ID 4. 
+-->>>A clerk finishes serving a customer: end time 23.30, the customer ID 26, the clerk ID 2. 
+A clerk starts serving a customer: waited time:9.50 start time 23.30, the customer ID 29, the clerk ID 2. 
+-->>>A clerk finishes serving a customer: end time 24.09, the customer ID 24, the clerk ID 1. 
+A clerk starts serving a customer: waited time:16.70 start time 24.10, the customer ID 14, the clerk ID 1. 
+-->>>A clerk finishes serving a customer: end time 25.29, the customer ID 28, the clerk ID 4. 
+A clerk starts serving a customer: waited time:16.79 start time 25.29, the customer ID 15, the clerk ID 4. 
+-->>>A clerk finishes serving a customer: end time 25.30, the customer ID 29, the clerk ID 2. 
+A clerk starts serving a customer: waited time:15.70 start time 25.30, the customer ID 16, the clerk ID 2. 
+-->>>A clerk finishes serving a customer: end time 28.29, the customer ID 13, the clerk ID 3. 
+A clerk starts serving a customer: waited time:17.99 start time 28.29, the customer ID 17, the clerk ID 3. 
+-->>>A clerk finishes serving a customer: end time 29.10, the customer ID 14, the clerk ID 1. 
+A clerk starts serving a customer: waited time:18.40 start time 29.10, the customer ID 19, the clerk ID 1. 
+-->>>A clerk finishes serving a customer: end time 32.30, the customer ID 16, the clerk ID 2. 
+A clerk starts serving a customer: waited time:20.80 start time 32.30, the customer ID 20, the clerk ID 2. 
+-->>>A clerk finishes serving a customer: end time 33.30, the customer ID 20, the clerk ID 2. 
+A clerk starts serving a customer: waited time:21.10 start time 33.30, the customer ID 22, the clerk ID 2. 
+-->>>A clerk finishes serving a customer: end time 36.29, the customer ID 17, the clerk ID 3. 
+A clerk starts serving a customer: waited time:24.00 start time 36.29, the customer ID 23, the clerk ID 3. 
+-->>>A clerk finishes serving a customer: end time 37.29, the customer ID  4, the clerk ID 5. 
+-->>>A clerk finishes serving a customer: end time 37.29, the customer ID 15, the clerk ID 4. 
+A clerk starts serving a customer: waited time:24.40 start time 37.29, the customer ID 25, the clerk ID 5. 
+A clerk starts serving a customer: waited time:23.80 start time 37.29, the customer ID 27, the clerk ID 4. 
+-->>>A clerk finishes serving a customer: end time 38.30, the customer ID 22, the clerk ID 2. 
+A clerk starts serving a customer: waited time:23.91 start time 38.30, the customer ID 30, the clerk ID 2. 
+-->>>A clerk finishes serving a customer: end time 40.29, the customer ID 23, the clerk ID 3. 
+-->>>A clerk finishes serving a customer: end time 43.29, the customer ID 27, the clerk ID 4. 
+-->>>A clerk finishes serving a customer: end time 46.30, the customer ID 30, the clerk ID 2. 
+-->>>A clerk finishes serving a customer: end time 52.10, the customer ID 19, the clerk ID 1. 
+-->>>A clerk finishes serving a customer: end time 52.29, the customer ID 25, the clerk ID 5. 
+The average waiting time for all customers in queues is: 9.65 sec
+Business class customers Avg waited time in queue 5.83 sec
+Economy class customers Avg waited time in queue 10.81 sec

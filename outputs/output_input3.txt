@@ -1,0 +1,7 @@
+negative service time detected on customer ID:2
+negative aririval time detected on customer ID:4
+negative service time detected on customer ID:6
+*---------------Error Log----------------------------------*
+input customer number and lines of customer doesn't match
+Customer number Fixed, Customer number:6
+*---------------Error Log----------------------------------*
